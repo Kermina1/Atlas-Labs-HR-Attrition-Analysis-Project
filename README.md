@@ -16,7 +16,7 @@ The dataset used for this project was provided by the DataCamp platform. It cons
 1. What is the total number of employees?
 2. What is the number of current employees?
 3. What is the average age of employees who left?
-4. What is the average salary of current employees?
+4. What is the average salary of total employees?
 5. What is the attrition rate in each department?
 6. What is the effect of salary on attrition?
 7. How does attrition vary across different age groups, gender, marital status, and other demographics?
@@ -26,14 +26,14 @@ The dataset used for this project was provided by the DataCamp platform. It cons
 11. How does employee tenure affect attrition?
 12. Does lack of promotion contribute to attrition?
 13. Does overtime impact attrition?
-14. What is the attrition rate in each department?
+
 
 ## Executive Summary:
 
 ### Main Insights
 - Atlas Labs has employed 1,470 individuals since its inception, with 1,233 current employees and a total attrition of 237, resulting in an overall attrition rate of **16.12%**.
 - The **Sales Department** exhibits the highest attrition rate at **20.63%**, followed by **Human Resources** (19.05%) and **Technology** (13.84%).
-- A deeper analysis of job roles shows that **lower salaries** are correlated with **higher attrition rates**. Sales Representatives have the highest attrition rate (39.76%) among all roles, followed by Recruiters (37.50%) and Data Scientists (23.75%). Dissatisfaction related to lower average salaries is a key driver of attrition.
+- A deeper analysis of job roles shows that **lower salaries** are correlated with **higher attrition rates**. Within these deparments we can see that Sales Representatives have the highest attrition rate (39.76%) among all roles, followed by Recruiters (37.50%) and Data Scientists (23.75%). Dissatisfaction may be related to lower average salaries is a key driver of attrition.
 - A significant portion of employees who left were between the ages of **20 and 29**, many of whom had **no formal degree** or only a **bachelor’s degree**.
 - Most employees who left did so within **their first year** of employment, often after only a few months.
 - Employees who worked **overtime** experienced an attrition rate of **30.53%** and did not receive promotions, likely due to their short tenure.
@@ -50,9 +50,9 @@ The dataset used for this project was provided by the DataCamp platform. It cons
 - Frequent **job-related travel** is associated with higher attrition. Revisiting **travel policies** to align with employee expectations could help reduce turnover.
 - To address **work pressure** and **overtime**, providing additional compensation or flexible work arrangements may alleviate dissatisfaction and encourage longer employee tenure.
 
-## Lessons Learned:
-- Utilized **Power Pivot** for data modeling and the creation of measures using **DAX (Data Analysis Expressions)**.
-- Employed **Power Query** for data cleansing and feature engineering to enhance data quality.
+## Lessons I Learned:
+- Utilizing **Power Pivot** for data modeling and the creation of measures using **DAX (Data Analysis Expressions)**.
+- Using **Power Query** for data cleansing and feature engineering to enhance data quality.
 - Developed **pivot tables** leveraging data models for insightful analysis.
 - Designed an interactive **HR attrition dashboard** for effective data visualization and analysis.
 
