@@ -1,5 +1,5 @@
 # Atlas Labs HR-Attrition Analysis Project
-
+![HR Attrition Dashboard](HR_Attrition_Dashboard.png)
 ## Objectives
 In this project, we explore a dataset from a fictitious software company called Atlas Labs. We import, analyze, and visualize the data using Microsoft Excel, with the goal of developing a clean, self-explanatory, and interactive dashboard for the HR team. Through thorough exploratory data analysis and visualizations, we dive deeper into attrition and the factors that influence it. This analysis will help the organization determine actionable steps to retain more employees.
 
